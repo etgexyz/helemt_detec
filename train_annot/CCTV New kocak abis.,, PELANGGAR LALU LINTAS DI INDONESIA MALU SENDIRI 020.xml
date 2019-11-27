@@ -1,0 +1,98 @@
+<annotation verified="yes">
+	<folder>CCTV New kocak abis.,, PELANGGAR LALU LINTAS DI INDONESIA MALU SENDIRI (9-16-2019 6-02-33 PM)</folder>
+	<filename>CCTV New kocak abis.,, PELANGGAR LALU LINTAS DI INDONESIA MALU SENDIRI 020.jpg</filename>
+	<path>C:\Users\Baik\Pictures\FreeVideoToJPGConverter\CCTV New kocak abis.,, PELANGGAR LALU LINTAS DI INDONESIA MALU SENDIRI (9-16-2019 6-02-33 PM)\CCTV New kocak abis.,, PELANGGAR LALU LINTAS DI INDONESIA MALU SENDIRI 020.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person without helm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>472</xmin>
+			<ymin>365</ymin>
+			<xmax>526</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person without helm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>602</xmin>
+			<ymin>389</ymin>
+			<xmax>656</xmax>
+			<ymax>458</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person with motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>282</ymin>
+			<xmax>555</xmax>
+			<ymax>613</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person with motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>585</xmin>
+			<ymin>319</ymin>
+			<xmax>713</xmax>
+			<ymax>623</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person with motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>272</ymin>
+			<xmax>353</xmax>
+			<ymax>578</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person with motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1073</xmin>
+			<ymin>343</ymin>
+			<xmax>1188</xmax>
+			<ymax>686</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person with motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>826</xmin>
+			<ymin>311</ymin>
+			<xmax>943</xmax>
+			<ymax>611</ymax>
+		</bndbox>
+	</object>
+</annotation>

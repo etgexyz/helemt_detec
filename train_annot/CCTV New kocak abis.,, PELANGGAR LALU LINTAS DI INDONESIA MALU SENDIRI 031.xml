@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>CCTV New kocak abis.,, PELANGGAR LALU LINTAS DI INDONESIA MALU SENDIRI (9-16-2019 6-02-33 PM)</folder>
+	<filename>CCTV New kocak abis.,, PELANGGAR LALU LINTAS DI INDONESIA MALU SENDIRI 031.jpg</filename>
+	<path>C:\Users\Baik\Pictures\FreeVideoToJPGConverter\CCTV New kocak abis.,, PELANGGAR LALU LINTAS DI INDONESIA MALU SENDIRI (9-16-2019 6-02-33 PM)\CCTV New kocak abis.,, PELANGGAR LALU LINTAS DI INDONESIA MALU SENDIRI 031.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person without motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>215</ymin>
+			<xmax>185</xmax>
+			<ymax>549</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person without helm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>208</ymin>
+			<xmax>149</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>
